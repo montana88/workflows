@@ -1,4 +1,4 @@
-mplate.js
+
 $(function() {
     var Mustache = require('mustache');
 
